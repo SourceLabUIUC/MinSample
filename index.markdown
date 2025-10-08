@@ -13,7 +13,7 @@ For nearly three hundred years (ca. 1480-1780), the imperial Russian government 
 
 A copy of one of these plans—a model district post-yard, designed by L'vov—is preserved today in the Russian State Historical Archive (RGIA, St. Petersburg).[^2]  As a primary source, this model plan illuminates an important juncture in the history of imperial Russian communications.  It allows us today to explore just how the architects of Russia's Enlightenment sought to house the ancient imperial obligation of relay service within their plans for the empire's future.
 
-This micro-edition presents an [annotated digital facsimile of this plan](https://jwr12.github.io/imperial_russian_post_office_1782/002_source.html), based on an archival photograph taken by the Russian State Historical Archive in 2010.   An accompanying [essay](https://jwr12.github.io/imperial_russian_post_office_1782/003_about_the_source.html) situates this design within L'vov's life as an architect, the Catherinean government's attempts to reform Russia's provinces, and the longer, imperial history of communications in Russia. 
+This micro-edition will present an annotated digital facsimile of this plan, based on an archival photograph taken by the Russian State Historical Archive in 2010.   An accompanying essay will situate this design within L'vov's life as an architect, the Catherinean government's attempts to reform Russia's provinces, and the longer, imperial history of communications in Russia. 
 
 This open, self-published edition is meant to be used by researchers, teachers, students, and the public at large.  It is licensed by the author for free use (with credit) under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
@@ -21,7 +21,7 @@ This open, self-published edition is meant to be used by researchers, teachers, 
 
 Cite this edition: 
 
-Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL, e.g. https://jwr12.github.io/imperial_russian_post_office_1782/*.
+Randolph, John. “Model Plan for a District Post-Yard, Russian Empire (1782).” *Insert access date, e.g. 'Accessed February 12, 2024'*. *Insert page URL*.
 
 ----
 [^1]: Gurliand, *Iamskaia gon'ba*; Randolph, "Communication and Obligation."
