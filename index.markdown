@@ -4,7 +4,7 @@ layout: single_page
 
 {% assign media = site.mindoc_media | where: "page", "source" | sort: "order" %}
 
-### Introduction
+# Introduction
 
 
 Like most of history's overland empires, the Russian Empire relied on animal-powered relays (or "posts") to run its official communications.  The princes of Moscow began to organize this service in the late 15th century.  They established relay stations at regular intervals along important roads (generally 15-25 miles apart).  They required local communities to maintain fresh horses at these stations.  (At some stations, dogs, reindeer, human rowers or even porters provided this horse-power.)  Bouncing up to such a relay station and producing an official post-order, the Tsars' couriers and servitors could claim these horses at these stations, as well as new coachmen and vehicles to work them. Regular mail service was added along these roads in the late seventeenth century.  Starting under Peter I (1689-1725), civilians could purchase post-orders and travel and send mail through these postal roads as well. [^1]
